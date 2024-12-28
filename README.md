@@ -11,7 +11,7 @@
 Rok2025/Rok2025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Hi there, I'm John Doe! 👋
+# Hi there, I'm Rok! 👋
 
 ## About Me
 🌟 I'm a full-stack engineer with a curious mind
