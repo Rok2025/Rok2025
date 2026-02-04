@@ -33,12 +33,10 @@ You can click the Preview link to take a look at your changes.
 ![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact)
 -->
+[![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rok2025&theme=algolia)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rok2025&show_icons=true&theme=transparent&hide_border=true" alt="Rok's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rok2025&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rok2025&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-one-eight.vercel.app/api?username=Rok2025&show_icons=true&theme=transparent&hide_border=true" alt="Rok's GitHub stats" />
+  <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=Rok2025&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" />
 </p>
 ---
 
