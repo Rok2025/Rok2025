@@ -33,9 +33,26 @@ You can click the Preview link to take a look at your changes.
 ![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact)
 -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rok2025&show_icons=true&theme=transparent&hide_border=true" alt="Rok's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rok2025&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rok2025&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</p>
 ---
 
 ## Projects
+  ### 🐸 [Life OPS](https://github.com/Rok2025/life-ops)
+  A comprehensive personal operating system for high-performance living.
+  - **Tech Stack**: Next.js 15, Tailwind CSS 4, Supabase, TypeScript, Turborepo.
+  - **Features**: Three Frogs (Daily Focus), TIL (Knowledge base), Fitness Tracking.
+  ### 👶 [Baby Tracker Pro](https://github.com/Rok2025/baby-tracker-pro)
+  A specialized tool for parents to track their baby's sleep, feeding, and growth patterns.
+  - **Tech Stack**: TypeScript, React, Modern Web APIs.
+  ### 🤖 [MCP Projects](https://github.com/Rok2025/mcp)
+  Experiments and implementations related to the Model Context Protocol, bridging the gap between LLMs and local tools.
+  - **Tech Stack**: TypeScript, MCP SDK, AI Integration.
 <!--
 - [Awesome Project](https://github.com/johndoe/awesome-project): A tool to manage tasks and increase productivity.  
 - [Portfolio Website](https://github.com/johndoe/portfolio): My personal portfolio showcasing my projects and skills.  
