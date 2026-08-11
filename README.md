@@ -1,67 +1,61 @@
-<!--
-- 👋 Hi, I’m @Rok2025
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!---
-Rok2025/Rok2025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# Hi, I'm Rok 👋
+# Hi, I am Rok 👋
 
-> Building AI automation, personal productivity systems, and practical developer tools.
+> I build AI-native systems that turn information and recurring work into reliable workflows.
 
-## About Me
+## What I Build
 
-✨ Full-stack engineer building practical AI automation, agent workflows, and personal productivity systems.  
-🤖 Heavy user of Codex and Claude Code, turning recurring work into reliable tools and reusable workflows.  
-🛠 Working across web development, local-first automation, and AI-assisted developer tools.  
-📫 Reach me at: rok.me.2025@gmail.com
+- **AI automation & agent workflows** — turning recurring work into reliable, reusable systems.
+- **Personal operating systems** — tools for planning, knowledge capture, and high-leverage execution.
+- **Developer tools** — practical local-first utilities for real work.
+
+## Current Focus
+
+- Building AI automation and agent workflows with Codex and Claude Code
+- Designing local-first personal productivity systems
+- Turning recurring work into practical developer tools
 
 ---
 
-## Skills
-- **Languages:** Java, Python, JavaScript, CSS
-- **Frameworks:** Spring Boot, Vue, React, Nextjs
-- **Tools:** Docker, Git  
+## Selected Projects
+
+### 🐸 [Life OPS](https://github.com/Rok2025/life-ops)
+A personal operating system for planning, knowledge capture, and high-leverage daily execution.
+
+- **Tech Stack:** Next.js 15, Tailwind CSS 4, Supabase, TypeScript, Turborepo
+- **Features:** Three Frogs daily focus, TIL knowledge base, fitness tracking
+
+### 🎙️ [audio2text](https://github.com/Rok2025/audio2text)
+Python tools that turn audio into searchable text, making spoken material easier to retrieve and reuse.
+
+- **Tech Stack:** Python
+- **Focus:** audio transcription and searchable knowledge capture
+
+### 🖥️ [Network Health Monitor](https://github.com/Rok2025/network-health-monitor)
+A local macOS menu-bar monitor for network reachability, stability, and 12-hour history.
+
+- **Tech Stack:** Swift, SwiftUI, AppKit, Network.framework
+- **Features:** network probes, health states, local history, and system notifications
+
+## Other Projects
+
+### 👶 [Baby Tracker Pro](https://github.com/Rok2025/baby-tracker-pro)
+A focused tracker for baby sleep, feeding, and growth.
+
+- **Tech Stack:** TypeScript, React, Modern Web APIs
 
 ---
 
 ## GitHub Stats
-<!--
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact)
--->
+
 [![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rok2025&theme=algolia)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 ---
 
-## Projects
-  ### 🐸 [Life OPS](https://github.com/Rok2025/life-ops)
-  A comprehensive personal operating system for high-performance living.
-  - **Tech Stack**: Next.js 15, Tailwind CSS 4, Supabase, TypeScript, Turborepo.
-  - **Features**: Three Frogs (Daily Focus), TIL (Knowledge base), Fitness Tracking.
-  ### 👶 [Baby Tracker Pro](https://github.com/Rok2025/baby-tracker-pro)
-  A specialized tool for parents to track their baby's sleep, feeding, and growth patterns.
-  - **Tech Stack**: TypeScript, React, Modern Web APIs.
-### 🖥️ [Network Health Monitor](https://github.com/Rok2025/network-health-monitor)
-A local macOS menu-bar monitor for network reachability, stability, and 12-hour history.
-- **Tech Stack**: Swift, SwiftUI, AppKit, Network.framework.
-- **Features**: Network probes, health states, local history, and system notifications.
-<!--
-- [Awesome Project](https://github.com/johndoe/awesome-project): A tool to manage tasks and increase productivity.  
-- [Portfolio Website](https://github.com/johndoe/portfolio): My personal portfolio showcasing my projects and skills.  
--->
----
+## Open to
+
+Collaborating on practical AI automation, developer tools, and personal productivity systems.
 
 ## Connect with Me
-<!--
-- [LinkedIn](https://www.linkedin.com/in/johndoe)  
--->
+
 - [X](https://x.com/zhangrf0)
-
-
-
+- [Website](http://blog.zruifeng.cn/)
