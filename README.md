@@ -16,9 +16,10 @@ You can click the Preview link to take a look at your changes.
 > Building AI automation, personal productivity systems, and practical developer tools.
 
 ## About Me
-🌟 Full-stack engineer focused on useful AI systems and personal productivity tools.
-💻 Working across web, automation, and macOS tools.
-🌱 Currently exploring AI automation, local-first workflows, and practical developer tools.
+
+✨ Full-stack engineer building practical AI automation, agent workflows, and personal productivity systems.  
+🤖 Heavy user of Codex and Claude Code, turning recurring work into reliable tools and reusable workflows.  
+🛠 Working across web development, local-first automation, and AI-assisted developer tools.  
 📫 Reach me at: rok.me.2025@gmail.com
 
 ---
