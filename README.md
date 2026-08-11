@@ -11,13 +11,15 @@
 Rok2025/Rok2025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Hi there, I'm Rok! 👋
+# Hi, I'm Rok 👋
+
+> Building AI automation, personal productivity systems, and practical developer tools.
 
 ## About Me
-🌟 I'm a full-stack engineer with a curious mind
-💻 I specialize in front-end and back-end web development
-🌱 Currently learning: Nextjs, AI  
-📫 Reach me at: rok.me.2025@gmail.com  
+🌟 Full-stack engineer focused on useful AI systems and personal productivity tools.
+💻 Working across web, automation, and macOS tools.
+🌱 Currently exploring AI automation, local-first workflows, and practical developer tools.
+📫 Reach me at: rok.me.2025@gmail.com
 
 ---
 
@@ -44,9 +46,10 @@ You can click the Preview link to take a look at your changes.
   ### 👶 [Baby Tracker Pro](https://github.com/Rok2025/baby-tracker-pro)
   A specialized tool for parents to track their baby's sleep, feeding, and growth patterns.
   - **Tech Stack**: TypeScript, React, Modern Web APIs.
-  ### 🤖 [MCP Projects](https://github.com/Rok2025/mcp)
-  Experiments and implementations related to the Model Context Protocol, bridging the gap between LLMs and local tools.
-  - **Tech Stack**: TypeScript, MCP SDK, AI Integration.
+### 🖥️ [Network Health Monitor](https://github.com/Rok2025/network-health-monitor)
+A local macOS menu-bar monitor for network reachability, stability, and 12-hour history.
+- **Tech Stack**: Swift, SwiftUI, AppKit, Network.framework.
+- **Features**: Network probes, health states, local history, and system notifications.
 <!--
 - [Awesome Project](https://github.com/johndoe/awesome-project): A tool to manage tasks and increase productivity.  
 - [Portfolio Website](https://github.com/johndoe/portfolio): My personal portfolio showcasing my projects and skills.  
